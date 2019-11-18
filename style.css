@@ -1,0 +1,41 @@
+input {
+	width: 100px;
+	height: 80px;
+	font-size: 75px;
+	border-radius: 10px;
+	margin: 10px;
+	background-color: #696767;
+	color: #fff;
+	border-style: none;
+
+}
+
+#myform {
+	text-align: center;
+	margin-left: 225px;
+	margin-top: 20px;
+}
+
+
+h1 {
+	text-align: center;
+	font-size: 60px;
+	margin-bottom: -30px;
+	margin-top: -5px;
+	font-family: Courier New, monospace;
+
+}
+
+#display {
+	width: 675px;
+	height: 100px;
+	text-align: center;
+	background-color: #C1BDBD;
+}
+
+#buttons{
+    text-align: center;
+    margin-right: 220px;
+
+}
+
